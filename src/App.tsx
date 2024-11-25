@@ -21,7 +21,7 @@ function App() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
-              <img src="/logo.png" alt="EcoTejidos" className="h-12" />
+              <img src="/logoHeader.png" alt="EcoTejidos" className="h-12" />
             </div>
             
             {/* Mobile Menu Button */}
